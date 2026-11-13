@@ -11,7 +11,7 @@ Este projeto consiste no desenvolvimento e evolução de um portfólio pessoal r
 * **Git & GitHub / GitHub Pages:** Versionamento de código e hospedagem.
 
 ## Link do Site Publicado
-Acesse o portfólio online clicando aqui: [https://sabrinassantos612.github.io/nome-do-repositorio](https://sabrinassantos612.github.io/nome-do-repositorio)
+Acesse o portfólio online clicando aqui: [https://sabrinassantos612.github.io/nome-do-repositorio]([https://sabrinassantos612.github.io/nome-do-repositorio](https://sabrinassantos612-dot.github.io/Portifolio/#))
 
 ## Explicação do Funcionamento do Projeto
 O site é estruturado em página única com navegação por menu superior, contendo:
